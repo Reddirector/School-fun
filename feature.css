@@ -119,3 +119,24 @@ body{
 .Priyanshipal:hover{
     scale: 1.1;
 }
+.krishubajpai{
+    height: 440px;
+    width: 1200px;
+    display: flex;
+    position: relative;
+    top: 500px;
+    left:5rem;
+    background-color: #252627;
+    transition: all ease-in-out 1s;
+    border: 2px solid white;
+    #krishubajpai{
+        height: 400px;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+}
+.krishubajpai:hover{
+    scale: 1.1;
+}

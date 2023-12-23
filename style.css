@@ -93,6 +93,33 @@ a{
     color: aliceblue;
     text-decoration: none;
 }
-.logo{
+.logo {
     border: 2px solid white;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 200px;
+    top: 50px;
+    .img{
+        margin-right: 350px;
+    }
+}
+.content{
+    border: 2px solid white;
+    background-color: #252627;
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    justify-content:center;
+    position: relative;
+    top: 60px;
+    left: 200px;
+}
+.note{
+    margin-top: 30px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    margin-left:200px
 }
