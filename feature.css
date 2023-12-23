@@ -98,3 +98,24 @@ body{
 .Vanshikasingh:hover{
     scale: 1.1;
 }
+.Priyanshipal{
+    height: 440px;
+    width: 1200px;
+    display: flex;
+    position: relative;
+    top: 400px;
+    left:5rem;
+    background-color: #252627;
+    transition: all ease-in-out 1s;
+    border: 2px solid white;
+    #Priyanshipal{
+        height: 400px;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+}
+.Priyanshipal:hover{
+    scale: 1.1;
+}

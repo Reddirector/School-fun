@@ -93,3 +93,6 @@ a{
     color: aliceblue;
     text-decoration: none;
 }
+.logo{
+    border: 2px solid white;
+}
